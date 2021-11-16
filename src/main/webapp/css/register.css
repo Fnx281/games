@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, #4f93d2 0%, #5eb66d 80%);
+    background-size: 100% 100%;
+}
+label{
+    color: #fdfdfd;
+}
+#headline{
+    font-size: 30px;
+    color: #fffcfc;
+}
